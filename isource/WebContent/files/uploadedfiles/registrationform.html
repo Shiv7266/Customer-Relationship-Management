@@ -1,0 +1,23 @@
+<html>
+	<body>
+		
+		<table boder="2">
+			<th> Student Id</th>
+			<th> Student Name</th>
+			<th> Address</th>
+
+			<c: forEach items="${requestScope.list}" var="Student">
+				<tr>
+					<td><a href="./GetStudent?id=${Student.StudentId}">${Student.StudentId}</a></td>
+					<td> ${Student.name}</td>
+					<td> ${Student.address}</td>
+				</tr>
+			<c:forEach>
+			
+			
+		</table>
+
+
+	
+	</body>
+</html>
