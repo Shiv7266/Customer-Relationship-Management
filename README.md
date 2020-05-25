@@ -1,0 +1,3 @@
+# Customer-Relationship-Management
+It is a web based application designed and developed to perform marketing in an efficient manner. It helps to manage and maintain leads, billing of the customer, performing email campaigns and measuring its efficiency, generating reports to analyze sales forecast, maintaining inventory and purchase entry details. It is a complete CMS designed to be modified as per the customers need. In simple words, it is one stop shop to help customer to do his marketing and sales in the efficient manner.
+The application is designed and developed using jsp controller, servlets, and hibernate as ORM.
